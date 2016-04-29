@@ -1,0 +1,69 @@
+#PanX=-100319#
+#PanY=-99911#
+   
+#StartNode=0#
+#NodeType=StatementNode#
+#X=100058#
+#Y=100155#
+#Sentence=Hello#
+#AttachedTo=1#
+#AttachedTo=2#
+#EndNode#
+   
+#StartNode=1#
+#NodeType=ResponseNode#
+#X=100929#
+#Y=100181#
+#Sentence=Fuck off#
+#AttachedTo=4#
+#EndNode#
+   
+#StartNode=2#
+#NodeType=ResponseNode#
+#X=100328#
+#Y=100425#
+#Sentence=How are you?#
+#AttachedTo=3#
+#EndNode#
+   
+#StartNode=3#
+#NodeType=StatementNode#
+#X=100625#
+#Y=100422#
+#Sentence=I'm good you?#
+#AttachedTo=1#
+#AttachedTo=5#
+#AttachedTo=6#
+#EndNode#
+   
+#StartNode=4#
+#NodeType=StatementNode#
+#X=101268#
+#Y=100144#
+#Sentence=Rude#
+#EndNode#
+   
+#StartNode=5#
+#NodeType=ResponseNode#
+#X=100943#
+#Y=100474#
+#Sentence=Good thanks#
+#AttachedTo=7#
+#EndNode#
+   
+#StartNode=6#
+#NodeType=ResponseNode#
+#X=100938#
+#Y=100689#
+#Sentence=Not good#
+#AttachedTo=7#
+#EndNode#
+   
+#StartNode=7#
+#NodeType=StatementNode#
+#X=101362#
+#Y=100516#
+#Sentence=Cool Story bro#
+#EndNode#
+   
+#EOF#
